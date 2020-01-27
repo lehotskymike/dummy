@@ -1,0 +1,52 @@
+{
+	"orgs": [{
+			"id": "1",
+			"displayName": "A",
+			"description": "This is a description",
+			"suborganizations": [{
+					"id": "A12345",
+					"displayName": "A1",
+					"description": "This is a description"
+				},
+				{
+					"id": "A67890",
+					"displayName": "A2",
+					"description": "This is a description"
+				},
+			]
+		},
+		{
+			"id": "2",
+			"displayName": "B",
+			"description": "This is a description",
+			"suborganizations": [{
+					"id": "B12345",
+					"displayName": "B1",
+					"description": "This is a description"
+				},
+				{
+					"id": "B67890",
+					"displayName": "B2",
+					"description": "This is a description"
+				},
+			]
+		},
+		{
+			"id": "3",
+			"displayName": "C",
+			"description": "This is a description",
+			"suborganizations": [{
+					"id": "C12345",
+					"displayName": "C1",
+					"description": "This is a description"
+				},
+				{
+					"id": "C67890",
+					"displayName": "C2",
+					"description": "This is a description"
+				},
+			]
+		},
+
+	]
+}

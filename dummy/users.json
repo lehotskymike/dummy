@@ -1,0 +1,32 @@
+{
+	"users": [{
+			"active": "t",
+			"cn": "",
+			"firstName": "t",
+			"grade": "t",
+			"lastName": "t",
+			"state": "MD",
+			"uid": "alex.ctr",
+			"username": "alex.ctr",
+			"niprEmail": "",
+			"officeSymbol": "",
+			"organization": "",
+			"reasonForAccess": "",
+			"siprEmail": "",
+			"siprTokenCn": "",
+			"siprTokenDn": "",
+			"siprtTokenPCC": "",
+			"siprTokenUPN": "",
+			"subOrganization": "",
+			"supervisorEmail": "",
+			"supervisorPhone": "",
+			"supervisorName": "",
+			"telephoneNumber": "",
+			"townOfBirth": "",
+			"uic": "",
+			"uuid": "",
+			"lastModified": "",
+			"roles": ['ADMIN', 'APPROVER', 'USER']
+		}
+	]
+}
