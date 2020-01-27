@@ -131,7 +131,7 @@
             "uic": "",
             "uuid": "",
             "lastModified": "",
-            "roles": ['ADMIN', 'APPROVER', 'USER']
+            "roles": ["ADMIN", "APPROVER", "USER"]
         }]
     },
     "orgs": {
@@ -148,7 +148,7 @@
                         "id": "A67890",
                         "displayName": "A2",
                         "description": "This is a description"
-                    },
+                    }
                 ]
             },
             {
@@ -164,7 +164,7 @@
                         "id": "B67890",
                         "displayName": "B2",
                         "description": "This is a description"
-                    },
+                    }
                 ]
             },
             {
@@ -180,9 +180,9 @@
                         "id": "C67890",
                         "displayName": "C2",
                         "description": "This is a description"
-                    },
+                    }
                 ]
-            },
+            }
 
         ]
     },
