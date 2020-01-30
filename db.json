@@ -159,7 +159,7 @@
             "uic": "",
             "uuid": "123456-7894562-dafdsa-erew",
             "lastModified": "Fri Dec 20 11:39:57 EST 2019",
-            "roles": ["ADMIN", "APPROVER", "USER"]
+            "roles": []
         }]
     },
     "orgs": {
